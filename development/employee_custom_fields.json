@@ -1,0 +1,29 @@
+[
+  {
+    "fieldname": "herramienta_asignada",
+    "label": "Herramienta Asignada",
+    "fieldtype": "Link",
+    "options": "Item",
+    "insert_after": "employee_name",
+    "mandatory": 0,
+    "dt": "Employee"
+  },
+  {
+    "fieldname": "fecha_entrega",
+    "label": "Fecha de Entrega",
+    "fieldtype": "Date",
+    "insert_after": "herramienta_asignada",
+    "mandatory": 0,
+    "dt": "Employee"
+  },
+  {
+    "fieldname": "estado_herramienta",
+    "label": "Estado de la Herramienta",
+    "fieldtype": "Select",
+    "options": "Nuevo\nUsado\nDañado",
+    "insert_after": "fecha_entrega",
+    "mandatory": 0,
+    "mandatory_depends_on": "eval: doc.herramienta_asignada",
+    "dt": "Employee"
+  }
+]
