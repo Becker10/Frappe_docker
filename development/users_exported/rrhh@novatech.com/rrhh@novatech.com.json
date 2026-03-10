@@ -1,0 +1,70 @@
+{
+ "allowed_in_mentions": 1,
+ "block_modules": [],
+ "bulk_actions": 1,
+ "bypass_restrict_ip_check_if_2fa_enabled": 0,
+ "code_editor_type": "vscode",
+ "creation": "2026-03-09 17:27:43.339788",
+ "dashboard": 1,
+ "defaults": [],
+ "desk_theme": "Light",
+ "docstatus": 0,
+ "doctype": "User",
+ "document_follow_frequency": "Daily",
+ "document_follow_notify": 0,
+ "email": "rrhh@novatech.com",
+ "enabled": 1,
+ "first_name": "RRHH NovaTech",
+ "follow_assigned_documents": 0,
+ "follow_commented_documents": 0,
+ "follow_created_documents": 0,
+ "follow_liked_documents": 0,
+ "follow_shared_documents": 0,
+ "form_navigation_buttons": 0,
+ "form_sidebar": 1,
+ "full_name": "RRHH NovaTech",
+ "idx": 0,
+ "language": "en",
+ "last_reset_password_key_generated_on": "2026-03-09 17:27:43.476852",
+ "list_sidebar": 1,
+ "login_after": 0,
+ "login_before": 0,
+ "logout_all_sessions": 1,
+ "modified": "2026-03-09 17:28:03.538673",
+ "modified_by": "Administrator",
+ "mute_sounds": 0,
+ "name": "rrhh@novatech.com",
+ "new_password": "",
+ "notifications": 1,
+ "onboarding_status": "{}",
+ "owner": "Administrator",
+ "reset_password_key": "77937e7a2528572966543d731ee29bda8bd7c14af30b37957b7e4db760b05fcb",
+ "role_profiles": [],
+ "roles": [
+  {
+   "role": "HR User"
+  },
+  {
+   "role": "HR Manager"
+  }
+ ],
+ "search_bar": 1,
+ "send_me_a_copy": 0,
+ "send_welcome_email": 1,
+ "show_absolute_datetime_in_timeline": 0,
+ "simultaneous_sessions": 2,
+ "social_logins": [
+  {
+   "provider": "frappe",
+   "userid": "f77609f666c24e29f772770eb10321ec7ddb1c5"
+  }
+ ],
+ "thread_notify": 1,
+ "time_zone": "America/Tegucigalpa",
+ "timeline": 1,
+ "unsubscribed": 0,
+ "user_emails": [],
+ "user_type": "System User",
+ "username": "rrhh_novatech",
+ "view_switcher": 1
+}

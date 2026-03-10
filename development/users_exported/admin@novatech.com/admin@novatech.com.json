@@ -1,0 +1,71 @@
+{
+ "allowed_in_mentions": 1,
+ "block_modules": [],
+ "bulk_actions": 1,
+ "bypass_restrict_ip_check_if_2fa_enabled": 0,
+ "code_editor_type": "vscode",
+ "creation": "2026-03-09 17:24:47.365844",
+ "dashboard": 1,
+ "defaults": [],
+ "desk_theme": "Light",
+ "docstatus": 0,
+ "doctype": "User",
+ "document_follow_frequency": "Daily",
+ "document_follow_notify": 0,
+ "email": "admin@novatech.com",
+ "enabled": 1,
+ "first_name": "Administrador",
+ "follow_assigned_documents": 0,
+ "follow_commented_documents": 0,
+ "follow_created_documents": 0,
+ "follow_liked_documents": 0,
+ "follow_shared_documents": 0,
+ "form_navigation_buttons": 0,
+ "form_sidebar": 1,
+ "full_name": "Administrador",
+ "idx": 0,
+ "language": "en",
+ "last_reset_password_key_generated_on": "2026-03-09 17:24:47.717314",
+ "list_sidebar": 1,
+ "login_after": 0,
+ "login_before": 0,
+ "logout_all_sessions": 1,
+ "modified": "2026-03-09 17:24:47.717345",
+ "modified_by": "Administrator",
+ "mute_sounds": 0,
+ "name": "admin@novatech.com",
+ "new_password": "",
+ "notifications": 1,
+ "onboarding_status": "{}",
+ "owner": "Administrator",
+ "reset_password_key": "ee030caecff5f618cbf39ddf1afd6ab555ffda5a38660b5d98a1200b31db76cb",
+ "role_profiles": [
+  {
+   "role_profile": "System Manager"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "search_bar": 1,
+ "send_me_a_copy": 0,
+ "send_welcome_email": 1,
+ "show_absolute_datetime_in_timeline": 0,
+ "simultaneous_sessions": 2,
+ "social_logins": [
+  {
+   "provider": "frappe",
+   "userid": "bc66111bb76202e9ba74bdbb9d987d93f1e4764"
+  }
+ ],
+ "thread_notify": 1,
+ "time_zone": "America/Tegucigalpa",
+ "timeline": 1,
+ "unsubscribed": 0,
+ "user_emails": [],
+ "user_type": "System User",
+ "username": "administrador",
+ "view_switcher": 1
+}
